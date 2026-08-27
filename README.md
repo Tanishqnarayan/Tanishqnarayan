@@ -15,19 +15,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishqnarayan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tanishqnarayan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tanishqnarayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&count_private=true&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishqnarayan&count_private=true&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishqnarayan&theme=dark&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tanishqnarayan&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 </p>
